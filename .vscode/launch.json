@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "e_mart",
+            "cwd": "e_mart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "e_mart (profile mode)",
+            "cwd": "e_mart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "e_mart (release mode)",
+            "cwd": "e_mart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter_E-Mart-master",
+            "cwd": "Flutter_E-Mart-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter_E-Mart-master (profile mode)",
+            "cwd": "Flutter_E-Mart-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Flutter_E-Mart-master (release mode)",
+            "cwd": "Flutter_E-Mart-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "my_start_app",
+            "cwd": "my_start_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "my_start_app (profile mode)",
+            "cwd": "my_start_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "my_start_app (release mode)",
+            "cwd": "my_start_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
