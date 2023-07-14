@@ -1,8 +1,20 @@
 # emart_seller
 
-A new Flutter project.
+This is a mobile application developed using Flutter and Firebase, designed to provide an intuitive and seamless shopping experience for users. The app allows users to browse products, add them to their cart, and complete transactions securely.
 
-## Getting Started
+Features
+**User authentication:** Users can sign up and log in to the app using their email address or social media accounts.
+**Product browsing:** Users can explore a wide range of products, view product details, and images.
+**Shopping cart:** Users can add products to their cart and manage the quantity of items.
+**Checkout process:** Users can review their order, enter shipping details, and complete secure transactions.
+**Order history:** Users can view their past orders and track their delivery status.
+**Notifications:** Users receive push notifications for order updates and promotions.
+**Wishlist:** Users can save their favorite products to their wishlist for future reference.
+**Search functionality:** Users can search for specific products by keywords or categories.
+**Ratings and reviews:** Users can rate and write reviews for products.
+**Admin panel:** An admin panel integrated with Firebase allows the store owner to manage products, inventory, orders, and user accounts.
+Installation
+Make sure you have Flutter installed. For more information, refer to the Flutter installation guide.
 
 This project is a starting point for a Flutter application.
 ![WhatsApp Image 2023-05-12 at 7 36 44 PM](https://github.com/RohanSagar11/Flutter_E-Mart-UserSide/assets/56624624/1833bdb6-2587-4a01-9b18-1117e39bcfa4)
